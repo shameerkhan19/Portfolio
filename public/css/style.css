@@ -1,0 +1,57 @@
+.Header{
+  height: 500px;
+  background-image: url("http://9wallpapershd.com/images/2014/08/RAINBOW-COLORS-BACKGROUND-HD-WALLPAPER-1680x1050.jpg");
+  background-size: 1280px 500px;
+  background-repeat: no-repeat;
+}
+
+.links{
+  text-align: center;
+  height: 50px;
+}
+
+.list{
+  display: inline;
+  font-size: 20px;
+  font-family:georgia;
+  font-style:oblique;
+  width: 20px;
+  padding: 10px 40px;
+}
+
+.list2{
+  display: inline;
+  font-size: 15px;
+  font-family:georgia;
+  width: 20px;
+  padding: 10px 40px;
+}
+
+.images{
+  float: left;
+
+  width: 150px;
+  height: 150px;
+  background-image: url();
+}
+.text{
+
+}
+
+.projects{
+  text-decoration: none;
+}
+.projects:hover{
+  text-decoration: underline;
+}
+
+.about{
+
+  height: 400px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.other{
+  
+}
